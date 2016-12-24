@@ -1,0 +1,686 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-09-19 13:47+0100\n"
+"PO-Revision-Date: 2014-09-24 09:28+0100\n"
+"Last-Translator: Borisa Djuraskovic <borisad@webhostinghub.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+
+#: scd-googlemap.php:7
+msgid "SCD Google Map"
+msgstr "SCD Google Mapa"
+
+#: scd-options-google-map.php:6
+msgid "Google Map Settings"
+msgstr "Google Mapa Podešavanja"
+
+#: scd-options-google-map.php:16 scd-options.php:502
+msgid "Center:"
+msgstr "Centralno"
+
+#: scd-options-google-map.php:17
+msgid "Coordinates sperated by a comma "
+msgstr "Koordinate odvojene zarezima"
+
+#: scd-options-google-map.php:19 scd-options.php:506
+msgid "41.88,-87.63"
+msgstr "41.88,-87.63"
+
+#: scd-options-google-map.php:25 scd-options.php:512
+msgid "Zoom:"
+msgstr "Uveličavanje:"
+
+#: scd-options-google-map.php:35 scd-options.php:458 scd-options.php:522
+msgid "Size:"
+msgstr "Veličina:"
+
+#: scd-options-google-map.php:36 scd-options.php:523
+msgid "Size in pixels"
+msgstr "Veličina u pikselima"
+
+#: scd-options-google-map.php:38 scd-options.php:525
+msgid "400x400"
+msgstr "400x400"
+
+#: scd-options-google-map.php:44 scd-options.php:531
+msgid "Scale:"
+msgstr "Skala:"
+
+#: scd-options-google-map.php:54 scd-options.php:541
+msgid "Sensor:"
+msgstr "Senzor:"
+
+#: scd-options-google-map.php:64 scd-options.php:551
+msgid "Map type:"
+msgstr "Tip mape:"
+
+#: scd-options-google-map.php:74 scd-options.php:561
+msgid "Format:"
+msgstr "Format:"
+
+#: scd-options-google-map.php:86
+msgid "Google Map Settings - Contextual Help"
+msgstr "Google Mapa Podešavanja - Kontekstualna pomoć"
+
+#: scd-options-google-map.php:87
+msgid ""
+"Contextual help goes here. You may want to use different html elements to "
+"format your text as you want."
+msgstr ""
+"Kontekstualna pomoć je ovde. Možda ćete poželeti da koristite različite html "
+"elemente da biste formatirali tekst prema svojim potrebama.  "
+
+#: scd-options.php:10 scd-options.php:36
+msgid "Info"
+msgstr "Info"
+
+#: scd-options.php:11 scd-options.php:42
+msgid "Contact Details"
+msgstr "Detalji kontakta"
+
+#: scd-options.php:12
+msgid "Social Media"
+msgstr "Društveni mediji"
+
+#: scd-options.php:13
+msgid "Social Sharing"
+msgstr "Deljenje preko društvenih medija"
+
+#: scd-options.php:14
+msgid "Google Map"
+msgstr "Google mapa"
+
+#: scd-options.php:48
+msgid "Social Media Icons"
+msgstr "Ikonice društvenih medija"
+
+#: scd-options.php:54
+msgid "<div id=\"socialshareadmin\">Twitter</div>"
+msgstr "<div id=\"socialshareadmin\">Twitter</div>"
+
+#: scd-options.php:55
+msgid "<div id=\"socialshareadmin\">Facebook</div>"
+msgstr "<div id=\"socialshareadmin\">Facebook</div>"
+
+#: scd-options.php:56
+msgid "<div id=\"socialshareadmin\">Google+</div>"
+msgstr "<div id=\"socialshareadmin\">Google+</div>"
+
+#: scd-options.php:57
+msgid "<div id=\"socialshareadmin\">Pinterest</div>"
+msgstr "<div id=\"socialshareadmin\">Pinterest</div>"
+
+#: scd-options.php:63
+msgid "Static Google Map Image Settings"
+msgstr "Podešavanja za statičku sliku Google mape"
+
+#: scd-options.php:90 simple-social-contact-display.php:67
+msgid "Business Title:"
+msgstr "Poslovni naziv:"
+
+#: scd-options.php:91 scd-options.php:100 scd-options.php:109
+#: scd-options.php:118 scd-options.php:127 scd-options.php:136
+#: scd-options.php:145 scd-options.php:154 scd-options.php:163
+#: scd-options.php:194
+msgid ""
+"A regular text input field. Some inline HTML (&lt;a&gt;, &lt;b&gt;, &lt;"
+"em&gt;, &lt;i&gt;, &lt;strong&gt;) is allowed."
+msgstr ""
+"Polje za unos regularnog teksta. Dozvoljen je unos u HTML (&lt;a&gt;, &lt;"
+"b&gt;, &lt;em&gt;, &lt;i&gt;, &lt;strong&gt;)."
+
+#: scd-options.php:99 simple-social-contact-display.php:72
+msgid "Address Line One:"
+msgstr "Adresa prvog reda:"
+
+#: scd-options.php:108 simple-social-contact-display.php:77
+msgid "Address Line Two:"
+msgstr "Adresa drugog reda:"
+
+#: scd-options.php:117 simple-social-contact-display.php:82
+msgid "City / Town:"
+msgstr "Grad:"
+
+#: scd-options.php:126 simple-social-contact-display.php:87
+msgid "County / State:"
+msgstr "Država:"
+
+#: scd-options.php:135 simple-social-contact-display.php:92
+msgid "Post Code / Zip Code:"
+msgstr "Poštanski kod/Zip kod:"
+
+#: scd-options.php:144 simple-social-contact-display.php:97
+msgid "Telephone (Can also add a prefix e.g. Tel:):"
+msgstr "Telefon (Može se dodati i prefiks, npr. Tel.)"
+
+#: scd-options.php:153 simple-social-contact-display.php:102
+msgid "Mobile (Can also add a prefix e.g. Mob:):"
+msgstr "Mobilni tel. (Može se dodati i prefiks, npr. Mob.)"
+
+#: scd-options.php:162 simple-social-contact-display.php:107
+msgid "Fax (Can also add a prefix e.g. Fax:):"
+msgstr "Fax (Može se dodati i prefiks, npr. Fax.)"
+
+#: scd-options.php:171 simple-social-contact-display.php:112
+msgid "Email:"
+msgstr "Email:"
+
+#: scd-options.php:172
+msgid "A text input field which can be used for email input."
+msgstr "Polje za unos teksta koje se može koristiti za unos email-a."
+
+#: scd-options.php:184
+msgid "Update Alt Text:"
+msgstr "Ažuriraj alternativni tekst:"
+
+#: scd-options.php:193 simple-social-contact-display.php:119
+msgid "Social Icons Title (e.g. Connect with Us):"
+msgstr "Naziv ikonica društvenih medija (npr. Povežite se s nama):"
+
+#: scd-options.php:196
+msgid "Get in touch!"
+msgstr "Budimo u kontaktu!"
+
+#: scd-options.php:202 simple-social-contact-display.php:124
+msgid "Facebook URL:"
+msgstr "Facebook URL:"
+
+#: scd-options.php:203 scd-options.php:224 scd-options.php:245
+#: scd-options.php:266 scd-options.php:287 scd-options.php:308
+#: scd-options.php:329 scd-options.php:350
+msgid "A text input field which can be used for urls."
+msgstr "Polje za unos teksta koje se može koristiti za url."
+
+#: scd-options.php:213
+msgid "Facebook Alt Text:"
+msgstr "Alternativni Facebook tekst:"
+
+#: scd-options.php:214 scd-options.php:235 scd-options.php:256
+#: scd-options.php:277 scd-options.php:298 scd-options.php:319
+#: scd-options.php:340 scd-options.php:361
+msgid "A text input field"
+msgstr "Polje za unos teksta"
+
+#: scd-options.php:223 simple-social-contact-display.php:129
+msgid "Twitter URL:"
+msgstr "Twitter URL:"
+
+#: scd-options.php:234
+msgid "Twitter Alt Text:"
+msgstr "Alternativni Twitter tekst:"
+
+#: scd-options.php:244 simple-social-contact-display.php:134
+msgid "Google Plus URL:"
+msgstr "Google Plus URL:"
+
+#: scd-options.php:255
+msgid "Google Plus Alt Text:"
+msgstr "Google Plus alternativni tekst:"
+
+#: scd-options.php:265 simple-social-contact-display.php:139
+msgid "Tumblr URL:"
+msgstr "Tumblr URL:"
+
+#: scd-options.php:276
+msgid "Tumblr Alt Text:"
+msgstr "Tumblr alternativni tekst:"
+
+#: scd-options.php:286 simple-social-contact-display.php:144
+msgid "Linked In URL:"
+msgstr "Linked In URL:"
+
+#: scd-options.php:297
+msgid "Linked In Alt Text:"
+msgstr "Linked In alternativni tekst:"
+
+#: scd-options.php:307 simple-social-contact-display.php:149
+msgid "YouTube URL:"
+msgstr "YouTube URL:"
+
+#: scd-options.php:318
+msgid "YouTube Alt Text:"
+msgstr "YouTube alternativni tekst:"
+
+#: scd-options.php:328 simple-social-contact-display.php:154
+msgid "Pinterest URL:"
+msgstr "Pinterest URL:"
+
+#: scd-options.php:339
+msgid "Pinterest Alt Text:"
+msgstr "Pinterest alternativni tekst:"
+
+#: scd-options.php:349 simple-social-contact-display.php:159
+msgid "Instagram URL:"
+msgstr "Instagram URL:"
+
+#: scd-options.php:360
+msgid "Instagram Alt Text:"
+msgstr "Instagram alternativni tekst:"
+
+#: scd-options.php:370
+msgid "Include RSS feed icon."
+msgstr "Uključi ikonicu za RSS feed: "
+
+#: scd-options.php:379
+msgid "Social Media Icon Set:"
+msgstr "Set ikonica za društvene medije:"
+
+#: scd-options.php:380
+msgid ""
+"Samples can be found <a href=\"http://demo.wp-creative.co.uk/social-contact-"
+"display-widget/social-media-icons/\" target=\"_blank\" >on our site</a>"
+msgstr ""
+"Uzorke možete naći na <a href=\"http://demo.wp-creative.co.uk/social-contact-"
+"display-widget/social-media-icons/\" target=\"_blank\" >na našem site-u</a>"
+
+#: scd-options.php:389 simple-social-contact-display.php:184
+msgid "Display Social Media Icons vertically?"
+msgstr "Prikaži vetikalno ikonice za društvene medije?"
+
+#: scd-options.php:402 simple-social-interaction-buttons.php:33
+#: social-interaction-buttons.php:33
+msgid "Twitter Account:"
+msgstr "Twitter nalog:"
+
+#: scd-options.php:403
+msgid "Enter you Twitter Account (e.g. @HPTOnline)"
+msgstr "Unesite svoj Twitter nalog (npr. @HPTOnline)"
+
+#: scd-options.php:412
+msgid "Show Twitter follower count?"
+msgstr "Prikaži nalog Twitter pratioca?"
+
+#: scd-options.php:421
+msgid "Do you want to include Facebook Like and Share?"
+msgstr "Želite li da uključite  Facebook sviđanje i deljenje?"
+
+#: scd-options.php:430
+msgid "Facebook button style:"
+msgstr "Stil Facebook tastera:"
+
+#: scd-options.php:440
+msgid "Do you want to include Google +1?"
+msgstr "Želite li da uključite Google +1?"
+
+#: scd-options.php:449
+msgid "Do you want to include Pin It button?"
+msgstr "Želite li da uključite Pin It taster? "
+
+#: scd-options.php:503
+msgid ""
+"Coordinates separated by a comma. <a href=\"https://support.google.com/maps/"
+"answer/18539?hl=en\" target=\"_blank\" >More Info</a> \n"
+"\t\t<br><br><strong>New Google Maps</strong><br><br>Open Google Maps > Click "
+"a location on the map that isn't a marker or a [icon] pin. Clicking a marker "
+"or pin won't show its coordinates. Under the search box, an info card with "
+"coordinates will appear.<br><br><strong>Classic Google Maps</strong> "
+"<br><br>Open Google Maps > Right-click a location on the map. Select What's "
+"here? In the search box at the top of the page, the coordinates will appear."
+msgstr ""
+"Koordinate odvojene zarezima. <a href=\"https://support.google.com/maps/"
+"answer/18539?hl=en\" target=\"_blank\" >Više informacija </a> \n"
+"\t\t<br><br><strong>Nove Google Mape</strong><br><br>Otvori Google Mape > "
+"Kliknite na lokaciju na mapi koja nije marker ili [ikonica]. Ako kliknete na "
+"marker ili na pin, koordinate se neće prikazati. U polju za pretragu "
+"pojaviće vam se info kartica sa koordinatama.  <br><br><strong>Klasične "
+"Google mape</strong> <br><br>Otvori Google Mape >Kliknite desnim tasterom na "
+"lokaciju mape. Odaberite opciju: Šta je ovde? Koordinate će se pojaviti u "
+"polju za pretragu na vrhu strane."
+
+#: scd-options.php:513
+msgid ""
+"Maps on Google Maps have an integer \"zoom level\" which defines the "
+"resolution of the current view. Zoom levels between 0 (the lowest zoom "
+"level, in which the entire world can be seen on one map) to 21+ (down to "
+"individual buildings) are possible within the default roadmap maps view."
+msgstr ""
+"Mape na Google mapama imaju \"nivo uveličavanja\" u vidu celog broja koji "
+"određuje rezuluciju tekućeg pregleda. Nivoi uveličavanja su između 0 "
+"(najniži nivo gde se na jednoj karti vidi ceo svet) i 21+ (sve do "
+"pojedinačnih zgrada) koji prikazuje podrazumevani pregled mapa ulica.  "
+
+#: scd-options.php:542
+msgid ""
+"Use of the Google Static Maps API requires that you indicate whether your "
+"application is using a \"sensor\" (such as a GPS locator) to determine the "
+"user's location. This is especially important for mobile devices. "
+"Applications must pass a required sensor parameter indicating whether or not "
+"your application is using a sensor device."
+msgstr ""
+"Upotreba aplikacijskog programskog interfejsa Google Static Maps zahteva da "
+"odredite da li vaša aplikacioja koristi \"senzor\" (kao što je GPS lokator) "
+"za određivanje lokacije korisnika. To je naročito važno za mobilne uređaje. "
+"Aplikacije moraju da prođu obavezni parametar senzora koji pokazuje da li "
+"vaša aplikacija koristi uređaj sa senzorom. "
+
+#: scd-options.php:581
+msgid "SCD Settings Page Two - Contextual Help"
+msgstr "SCD Podešavanja, Druga strana - Kontekstualna pomoć"
+
+#: scd-options.php:587 scd-options.php:592
+msgid "Add which fields you require. Non are mandatory."
+msgstr "Dodajte obavezna polja. Nijedno nije obavezno."
+
+#: scd-settings.php:103 scd-settings.php:232
+msgid "SCD Settings"
+msgstr "SCD Podešavanja"
+
+#: scd-settings.php:232 scd-widget.php:117
+msgid "Social Contact Display"
+msgstr "Social Contact Display"
+
+#: scd-settings.php:235
+msgid "SCD Settings | Widget Options"
+msgstr "SCD Podešavanja | Widget opcije"
+
+#: scd-settings.php:235
+msgid "Widget Options"
+msgstr "Widget opcije"
+
+#: scd-settings.php:257
+msgid ""
+"Shortcode for this section is: [scd_google_static_map]. For more information "
+"on settings, please see <a href=\"https://developers.google.com/maps/"
+"documentation/staticmaps/\" target=\"_blank\" >here</a>"
+msgstr ""
+"Shortcode za ovaj odeljak: [scd_google_static_map]. Za više informacija o "
+"podešavanjima, vidite <a href=\"https://developers.google.com/maps/"
+"documentation/staticmaps/\" target=\"_blank\" >ovde</a>"
+
+#: scd-settings.php:260
+msgid ""
+"Widget for this section is: <strong>Social Contact Display</"
+"strong><br>Shortcode for this section is: <strong>"
+"[scd_social_contact_display]</strong>"
+msgstr ""
+"Widget za ovaj odeljak: <strong>Social Contact Display</strong><br>Shortcode "
+"za ovaj odeljak: <strong>[scd_social_contact_display]</strong>"
+
+#: scd-settings.php:263
+msgid "Settings for this section"
+msgstr "Podešavanja za ovaj odeljak"
+
+#: scd-settings.php:266
+msgid ""
+"Widget for this section is: <strong>Social Interaction Buttons</"
+"strong><br>Shortcode for this section is: <strong>[scd_social_share]</strong>"
+msgstr ""
+"Widget za ovaj odeljak: <strong>Tasteri za društvenu interakciju </"
+"strong><br>Shortcode za ovaj odeljak: <strong>[scd_social_share]</strong>"
+
+#: scd-settings.php:269
+msgid ""
+"<a href=\"http://quickclickhosting.com/wordpress-hosting-uk/\" target=_"
+"\"blank\"><img style=\"float:right;padding-left:10px;\" src=\"http://www."
+"quickclickhosting.com/images/wphosting.jpg\"></a><strong>What has changed in "
+"Version 2?</strong><br><br>We have added a more advanced set of widgets. The "
+"options are entered via the settings page under \"SCD Settings\". We have "
+"kept the original widget but renamed it as \"Simple Social Contact Display"
+"\". This should keep all of your previous options, but you will need to re-"
+"add the widget itself.<br><br>Also added is a Google Map option. This is a "
+"static map, for now, and coordinates will need to be entered - How to get "
+"coordinates.<br><br><strong>What are the shortcodes?</strong><br><br>Contact "
+"Details/Social Media - [scd_social_contact_display]<br> Social Sharing - "
+"[scd_social_share]<br> Google Map - [scd_google_static_map]"
+"<br><br><strong>Which Social Media sites are currently supported?</"
+"strong><br><br>Facebook Google+ Twitter LinkedIn YouTube Pinterest "
+"Instagram<br><br><strong>I have a suggestion for the plugin, where can I "
+"submit it?</strong><br><br>Either via the support tab, or via our site:"
+"<br><a href=\"http://demo.wp-creative.co.uk/social-contact-display-widget/"
+"plugin-suggestion/\" target=\"_blank\" >WP Creative</a><br>"
+msgstr ""
+"<a href=\"http://quickclickhosting.com/wordpress-hosting-uk/\" target=_"
+"\"blank\"><img style=\"float:right;padding-left:10px;\" src=\"http://www."
+"quickclickhosting.com/images/wphosting.jpg\"></a><strong>Šta je promenjeno u "
+"Verziji 2? </strong><br><br>Dodali smo napredniji komplet widget-a. U opcije "
+"se ulazi kroz stranicu podešavanja \"SCD Podešavanja\". Zadržali smo "
+"originalni widget, ali nazvali smo ga  \"Simple Social Contact Display\". "
+"Trebalo bi da sačuva sve vaše prethodne opcije, ali moraćete da ponovo "
+"dodate widget.<br><br>Takođe, dodali smo opciju Google Mape. Za sada, to je "
+"statička mapa gde treba uneti koordinate. Kako da nađete koordinate?"
+"<br><br><strong>Koji su shortcode-ovi?</strong><br><br>Detalji kontakta/"
+"Društveni mediji - [scd_social_contact_display]<br> Deljenje na društvenim "
+"medijima - [scd_social_share]<br> Google Mapa - [scd_google_static_map]"
+"<br><br><strong>Koji site-ovi društvenih medija su trenutno podržani?</"
+"strong><br><br>Facebook Google+ Twitter LinkedIn YouTube Pinterest "
+"Instagram<br><br><strong>Imam predlog za plugin, gde da ga podnesem? </"
+"strong><br><br>Ili preko tabulatora za podršku ili putem našeg site-a: "
+"<br><a href=\"http://demo.wp-creative.co.uk/social-contact-display-widget/"
+"plugin-suggestion/\" target=\"_blank\" >WP Creative</a><br> "
+
+#: scd-settings.php:407
+msgid "Save Changes"
+msgstr "Sačuvaj izmene"
+
+#: scd-settings.php:449
+msgid "Expecting a Numeric value! Please fix."
+msgstr "Očekivana vrednost je numerička. Molimo vas da prepravite."
+
+#: scd-settings.php:462
+msgid "Expecting comma separated numeric values"
+msgstr "Očekivane vrednosti su numeričke, odvojene zarezima.  "
+
+#: scd-settings.php:472
+msgid "Expecting comma separated numeric values! Please fix."
+msgstr ""
+"Očekivane vrednosti su numeričke, odvojene zarezima.  Molimo vas da "
+"prepravite."
+
+#: scd-settings.php:497
+msgid "Invalid email! Please re-enter!"
+msgstr "Nevažeći email! Molimo da ponovite unos!"
+
+#: scd-social-interaction-buttons.php:38 social-interaction-buttons.php:7
+msgid "Social Interaction Buttons"
+msgstr "Tasteri za društvenu interakciju"
+
+#: simple-social-contact-display.php:8
+msgid "Simple Social Contact Display"
+msgstr "Simple Social Contact Display"
+
+#: simple-social-contact-display.php:165
+msgid "Include RSS feed"
+msgstr "Uključi RSS feed"
+
+#: simple-social-contact-display.php:170
+msgid "Select"
+msgstr "Odaberi"
+
+#: simple-social-interaction-buttons.php:7
+msgid "Simple Social Interaction Buttons"
+msgstr "Tasteri za jednostavnu društvenu interakciju"
+
+#: simple-social-interaction-buttons.php:50 social-interaction-buttons.php:50
+msgid "Style"
+msgstr "Stil"
+
+#: includes/gmw-widget.php:11
+msgid ""
+"Displays a map image thumbnail with a larger map available in a lightbox."
+msgstr "Prikazuje sličicu mape sa većom mapom u lightbox-u."
+
+#: includes/gmw-widget.php:13
+msgid "Google Maps Widget"
+msgstr "Google Maps Widget"
+
+#: includes/gmw-widget.php:18
+msgid "Map"
+msgstr "Mapa"
+
+#: includes/gmw-widget.php:19
+msgid "New York, USA"
+msgstr "New York, USA"
+
+#: includes/gmw-widget.php:58 includes/gmw-widget.php:63
+msgid "Road (default)"
+msgstr "Put (podrazumevani)"
+
+#: includes/gmw-widget.php:59 includes/gmw-widget.php:64
+msgid "Satellite"
+msgstr "Satelit"
+
+#: includes/gmw-widget.php:60 includes/gmw-widget.php:65
+msgid "Terrain"
+msgstr "Teren"
+
+#: includes/gmw-widget.php:61 includes/gmw-widget.php:66
+msgid "Hybrid"
+msgstr "Hibrid"
+
+#: includes/gmw-widget.php:68
+msgid "Black"
+msgstr "Crni"
+
+#: includes/gmw-widget.php:69
+msgid "Brown"
+msgstr "Braon"
+
+#: includes/gmw-widget.php:70
+msgid "Green"
+msgstr "Zeleni"
+
+#: includes/gmw-widget.php:71
+msgid "Purple"
+msgstr "Ljubičasti"
+
+#: includes/gmw-widget.php:72
+msgid "Yellow"
+msgstr "Žuti"
+
+#: includes/gmw-widget.php:73
+msgid "Blue"
+msgstr "Plavi"
+
+#: includes/gmw-widget.php:74
+msgid "Gray"
+msgstr "Sivi"
+
+#: includes/gmw-widget.php:75
+msgid "Orange"
+msgstr "Narandžasti"
+
+#: includes/gmw-widget.php:76
+msgid "Red (default)"
+msgstr "Crveni (podrazumevani)"
+
+#: includes/gmw-widget.php:77
+msgid "White"
+msgstr "Beli"
+
+#: includes/gmw-widget.php:79
+msgid "Tiny"
+msgstr "Veoma mali"
+
+#: includes/gmw-widget.php:80
+msgid "Small"
+msgstr "Mali"
+
+#: includes/gmw-widget.php:81
+msgid "Medium"
+msgstr "Srednji"
+
+#: includes/gmw-widget.php:82
+msgid "Large (default)"
+msgstr "Veliki (podrazumevani)"
+
+#: includes/gmw-widget.php:84
+msgid "0 - entire world"
+msgstr "0 - ceo svet"
+
+#: includes/gmw-widget.php:89
+msgid "White with rounded corners (default)"
+msgstr "Beli sa zaobljenim uglovima (podrazumevani)"
+
+#: includes/gmw-widget.php:90
+msgid "Black with rounded corners"
+msgstr "Crni sa zaobljenim uglovima "
+
+#: includes/gmw-widget.php:91
+msgid "White with square corners"
+msgstr "Beli sa pravim uglovima"
+
+#: includes/gmw-widget.php:92
+msgid "Black with square corners"
+msgstr "Crni sa pravim uglovima"
+
+#: includes/gmw-widget.php:95
+msgid "Title"
+msgstr "Naziv"
+
+#: includes/gmw-widget.php:96
+msgid "Address"
+msgstr "Adresa"
+
+#: includes/gmw-widget.php:98
+msgid "Thumbnail map"
+msgstr "Sličica mape"
+
+#: includes/gmw-widget.php:98
+msgid "Lightbox map"
+msgstr "Lightbox mape"
+
+#: includes/gmw-widget.php:101 includes/gmw-widget.php:135
+msgid "Map Size"
+msgstr "Veličina mape"
+
+#: includes/gmw-widget.php:106 includes/gmw-widget.php:140
+msgid "Map Type"
+msgstr "Vrsta mape"
+
+#: includes/gmw-widget.php:111
+msgid "Pin Color"
+msgstr "Boja markera"
+
+#: includes/gmw-widget.php:116
+msgid "Pin Size"
+msgstr "Veličina markera"
+
+#: includes/gmw-widget.php:121 includes/gmw-widget.php:145
+msgid "Zoom Level"
+msgstr "Nivo uveličavanja"
+
+#: includes/gmw-widget.php:126
+msgid "Text Above Map"
+msgstr "Tekst iznad mape"
+
+#: includes/gmw-widget.php:129
+msgid "Text Below Map"
+msgstr "Tekst ispod mape"
+
+#: includes/gmw-widget.php:150
+msgid "Skin"
+msgstr "Izgled"
+
+#: includes/gmw-widget.php:155
+msgid "Show Address Bubble"
+msgstr "Prikaži balončić sa adresom"
+
+#: includes/gmw-widget.php:159
+msgid "Show Title Below Lightbox"
+msgstr "Prikaži naslov ispod lightbox-a"
+
+#: includes/gmw-widget.php:163
+msgid "Header Text"
+msgstr "Tekst zaglavlja"
+
+#: includes/gmw-widget.php:166
+msgid "Footer Text"
+msgstr "Tekst podnožja"
+
+#: includes/gmw-widget.php:171
+msgid "If you like the plugin give us a shout. Thanks!"
+msgstr "Ako vam se sviđa plugin, pišite nam.Hvala!"
+
+#: includes/gmw-widget.php:241 includes/gmw-widget.php:242
+msgid "Click to open larger map"
+msgstr "Kliknite da biste otvorili veću mapu"
